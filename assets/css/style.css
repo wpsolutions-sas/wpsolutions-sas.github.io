@@ -3113,9 +3113,9 @@ p.form-message.success, p.form-message.error {
   color: #fff;
   border-radius: 50%; }
 .contact-info .single-contact-info .contact-info-content {
-  padding-left: 20px; }
-  .contact-info .single-contact-info .contact-info-content .text {
-    color: #121212; }
+  padding-left: 5px;}
+.contact-info .single-contact-info .contact-info-content .text {
+  color: #121212; }
 .contact-info .single-contact-info.contact-color-1 .contact-info-icon i {
   background-color: #121212; }
 .contact-info .single-contact-info.contact-color-2 .contact-info-icon i {
